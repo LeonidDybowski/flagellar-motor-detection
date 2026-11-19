@@ -1,0 +1,4 @@
+train: /data/quokka/ws/15/ledy730h-flagella/train_tiles_yolo/images/train
+val: /data/quokka/ws/15/ledy730h-flagella/train_tiles_yolo/images/val
+nc: 1
+names: ['motor']
